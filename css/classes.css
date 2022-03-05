@@ -1,0 +1,42 @@
+ .btn{
+    background: #FB8F1D;
+    color: white;
+    border: none;
+    Width: 132px;
+    height: 44px;
+    border-radius: 8px;
+    border: 3px solid #FB8F1D;
+}
+.btn:hover{
+    background: transparent;
+    color: #FB8F1D;
+    transition: 0.3s;
+}
+.container{
+    max-width: 1219px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tittle{
+    font-family: Playfair Display;
+    font-size: 36px;
+    font-style: normal;
+    font-style: bold;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    
+}
+
+.link{
+    font family: Inter;
+    font size: 17px;
+    Line height: 60px;
+    color: #FB8F1D; 
+}

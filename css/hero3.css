@@ -1,0 +1,22 @@
+.hero3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero3__tittle{
+    width: 440px;
+    font-family: "Playfair Display";
+    font-weight: bold;
+    font-size: 36px;
+    color: #202336;
+}
+.hero3__subtittle{
+    font-family: "Mulish";
+    font-weight: 300;
+    font-size: 17px;
+    color: #7D7987;
+    width: 450px;
+}
+.hero3__btn{
+    margin-top: 39px;
+}

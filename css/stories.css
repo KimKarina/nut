@@ -1,0 +1,49 @@
+
+
+.stories__box{
+    width: 266px;
+}
+
+.stories__img{
+    background: url(../img/s1.png);
+    height: 266px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.stories__img_second{
+    background: url(../img/s2.png) center;
+    height: 266px;
+    width: 100%;
+    border-radius: 8px;
+}
+.stories__img_third{
+    background: url(../img/s3.png);
+    
+}
+.stories__name {
+  font-family: Inter;
+  font-weight: bold;
+ font-size: 19px;
+}
+
+.stories__descr {
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7D7987;
+}
+
+.link {
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
